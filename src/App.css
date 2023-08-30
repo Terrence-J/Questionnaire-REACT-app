@@ -1,0 +1,45 @@
+.navbar{
+
+  height: 100%;
+  width: 220px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border: 2px solid purple;
+}
+
+.navbar .navbar-items{
+
+  margin-top: 80px;
+  margin-left: 20px;
+  position: absolute;
+
+}
+
+.navbar .nav-item{
+
+  color: white;
+  width: 100px;
+  margin-top: 60px;
+  font-size: 18px;
+  display: block;
+  text-decoration: none;
+  
+}
+
+.Image{
+  
+  width: 100px;
+  height: 120px;
+  margin-left: 40px;
+  margin-bottom: 600px;
+  margin-top: 20px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+  position: absolute;
+}
+

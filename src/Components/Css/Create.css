@@ -1,0 +1,103 @@
+.Create-content{
+
+    background-color:#ebccff;
+    padding-bottom: 26.5%;
+    padding-top: 0.01%;
+}
+
+
+.Create-header{
+
+    margin-left: 600px;
+    margin-top: 30px;
+
+}
+
+.input-info{
+
+    margin-left: 450px;
+    margin-top: 70px;
+
+}
+
+.input-info input{
+
+    width: 70%;
+    border: none;
+    
+}
+
+.input-info button{
+
+    margin-left: 310px;
+    width: 100px;
+    border-radius: 10%;
+    background-color: purple;
+    color: white;
+
+}
+
+.input-info button:hover{
+
+    color: black;
+    background-color: #ebccff;
+
+}
+
+
+.List{
+
+    margin-left: 680px;
+    margin-top: 30px;
+}
+
+.List .Line{
+    
+    width: 100px;
+    margin-left: 70px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+
+
+ul li{
+
+    width: 40%;
+    margin-left: 485px;
+    margin-top: 40px;
+    list-style: none;
+
+
+
+}
+
+.fa-trash-can{
+
+    margin-left: 320px;
+    font-size: 24px;
+    color: red;
+}
+
+.fa-solid{
+
+    margin-left: 30px;
+    font-size: 24px;
+    color: blue;
+}
+
+ul button{
+
+    margin-left: 400px;
+    width: 100px;
+    border-radius: 10%;
+    background-color: purple;
+    color: white;
+    
+}
+
+ul button:hover{
+
+    color: black;
+    background-color: #ebccff;
+}

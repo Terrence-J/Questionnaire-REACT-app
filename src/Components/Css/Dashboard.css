@@ -1,0 +1,45 @@
+
+.Deshboard-Content{
+    background-color:#ebccff;
+    padding-bottom: 6.2%;
+    padding-top:0.1%;
+   
+}
+.Dashboard-header{
+
+    margin-left: 700px;
+  
+}
+
+.cards{
+
+    margin-left: 370px;
+}
+
+.dash-items{
+
+   
+    margin-top: 250px;
+    display: flex;
+}
+
+.dash-item{
+
+    margin-left: 70px;
+    margin-bottom: 30px;
+    
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 40%;
+    background-color: #d699ff;
+    
+
+}
+
+.dash-item p{
+
+    margin-top: 15px;
+
+}

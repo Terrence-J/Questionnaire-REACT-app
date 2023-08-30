@@ -1,0 +1,48 @@
+.Q-Content{
+
+    background-color:#ebccff;
+    padding-bottom: 32%;
+    padding-top: 0.01%;
+}
+
+.Q-heading{
+
+    margin-left: 700px;
+    margin-top: 30px;
+    
+}
+
+ul li{
+
+    width: 70%;
+    margin-left: 485px;
+    margin-top: 40px;
+
+}
+
+.radio-options{
+    margin-left: 300px;
+    margin-top: 0px;
+}
+
+label{
+
+    margin-left: 10px;
+}
+
+.Q-Content button{
+
+    margin-left: 770px;
+    width: 100px;
+    border-radius: 10%;
+    background-color: purple;
+    color: white;
+
+}
+
+.Q-Content button:hover{
+
+    color: black;
+    background-color: #ebccff;
+
+}
