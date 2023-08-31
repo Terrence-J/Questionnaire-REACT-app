@@ -12,7 +12,7 @@ const Dashboard = ({questions , agreeCount, neutralCount , disagreeCount}) => {
         <div className='Dashboard-header'>
            <h1>Dashboard</h1>
         </div>
-        <img className='Image shadow p-3 mb-5 bg-body-tertiary rounded' src={Image} />
+        <img className='Image shadow p-3 mb-5 bg-body-tertiary rounded' src={Image} alt='dashboard' />
         <div className='cards'>
            <div className='dash-items '>
             <div className='dash-item shadow p-3 mb-5 bg-body-tertiary rounded'>

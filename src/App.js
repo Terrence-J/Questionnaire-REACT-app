@@ -22,8 +22,7 @@ function App() {
     <div >
      <Router>
       <nav className="navbar">
-        <img className='Image' src={Image} alt='a-image' />
-        <img className='Image' src={Image}  alt="picture"/>
+        <img className='Image' src={Image} alt='logo' />
         <div className='navbar-items'>
         <Link to="/" className="nav-item">Dashboard</Link> 
         <Link to="/questionnaires" className="nav-item">Questionnaires</Link>
