@@ -23,7 +23,7 @@ export const Create = ({ questions, setQuestions}) => {
     const savedQuestions = JSON.parse(localStorage.getItem('myQuestions')) ||  [];
     setQuestions(savedQuestions);
 
-  }, []);
+  }, [setQuestions]);
 
 
   
