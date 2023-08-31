@@ -1,7 +1,7 @@
 
 .Deshboard-Content{
     background-color:#ebccff;
-    padding-bottom: 6.2%;
+    padding-bottom: 6%;
     padding-top:0.1%;
    
 }
@@ -9,6 +9,15 @@
 
     margin-left: 700px;
   
+}
+
+.Deshboard-Content img{
+
+    margin-left: 550px;
+    width: 500px;
+    height: 250px;
+    margin-top: 20px;
+
 }
 
 .cards{
@@ -19,7 +28,7 @@
 .dash-items{
 
    
-    margin-top: 250px;
+    margin-top: 60px;
     display: flex;
 }
 
@@ -27,7 +36,6 @@
 
     margin-left: 70px;
     margin-bottom: 30px;
-    
     width: 200px;
     height: 150px;
     text-align: center;

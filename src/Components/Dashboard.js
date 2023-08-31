@@ -1,8 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import Questionnaires from './Questionnaires';
-import Create from './Create';
 import './Css/Dashboard.css';
+import Image from './Css/Stats.jpg';
+
 
 
 const Dashboard = ({questions , agreeCount, neutralCount , disagreeCount}) => {
@@ -13,6 +12,7 @@ const Dashboard = ({questions , agreeCount, neutralCount , disagreeCount}) => {
         <div className='Dashboard-header'>
            <h1>Dashboard</h1>
         </div>
+        <img className='Image shadow p-3 mb-5 bg-body-tertiary rounded' src={Image} />
         <div className='cards'>
            <div className='dash-items '>
             <div className='dash-item shadow p-3 mb-5 bg-body-tertiary rounded'>
